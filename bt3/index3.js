@@ -1,3 +1,21 @@
+/**INPUT: CHO 3 SỐ NGUYÊN
+ * PROCESS : 
+ *           1. LẤY ĐƯỢC VALUE soThuNhatEl , VALUE soThuHaiEl , VALUE soThuBaEl
+ *           2. TẠO BIẾN VAR ketQuaEl
+ *           3. LẤY VALUE soThuNhatEl , VALUE soThuHaiEl , VALUE soThuBaEl CHIA LẤY DƯ CHO 2
+ *              NẾU CHIA LẤY DƯ CHO 2 BẰNG 0 LÀ SỐ CHẴN 
+ *              NẾU CHIA LẤY DƯ CHO 2 KHÁC 0 LÀ SÔ LẺ
+ *           4. HIỂN THỊ KẾT QUẢ BAO NHIÊU SỐ CHẴN BAO NHIÊU SỐ LẺ
+ * OUTPUT : XUẤT RA BAO NHIÊU SỐ CHẴN BAO NHIÊU SỐ LẺ
+ */
+
+
+
+
+
+
+
+
 function handling3() {
     var soThuNhatEl =+document.getElementById("soThuNhat").value
     var soThuHaiEl =+document.getElementById("soThuHai").value
